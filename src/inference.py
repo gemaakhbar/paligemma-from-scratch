@@ -2,7 +2,7 @@ from PIL import Image
 import torch
 import fire # for command line argument parsing
 from input_processor import PaliGemmaProcessor
-from paligemma import PaliGemmaForConditionalGeneration, PaliGemmaConfig, KVCache, PaliGemmaForConditionalGeneration
+from paligemma import PaliGemmaForConditionalGeneration, PaliGemmaConfig, KVCache
 from output_processor import PaliGemmaOutputProcessor
 from transformers import AutoTokenizer
 import json
