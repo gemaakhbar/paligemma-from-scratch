@@ -1,6 +1,6 @@
 # PaliGemma from Scratch
 
-A PyTorch implementation of Google's PaliGemma vision-language model with custom segmentation output processing.
+A PyTorch implementation of Google's PaliGemma vision-language model with VQ-VAE decoder for processing referring expression segmentation outputs.
 
 ## Overview
 
